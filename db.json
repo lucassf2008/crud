@@ -1,0 +1,72 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Pedro",
+      "email": "admin@romanceflix.com",
+      "senha": "admin123",
+      "cpf": "123.456.789-00",
+      "cep": "12345-678",
+      "rua": "Rua Exemplo",
+      "bairro": "Centro",
+      "cidade": "Cidade Exemplo",
+      "estado": "SP",
+      "telefone": "1234567890"
+    },
+    {
+      "id": 2,
+      "nome": "Lucas",
+      "email": "lucas@exemplo.com",
+      "senha": "senha123",
+      "cpf": "987.654.321-00",
+      "cep": "23456-789",
+      "rua": "Rua de Teste",
+      "bairro": "Bairro Exemplo",
+      "cidade": "Cidade Exemplo",
+      "estado": "SP",
+      "telefone": "9876543210"
+    },
+    {
+      "nome": "Du",
+      "sobrenome": "Santos",
+      "cpf": "85208520",
+      "email": "Du@santos",
+      "senha": "0987",
+      "cep": "08744000",
+      "rua": "Avenida Conceição",
+      "bairro": "Vila Cintra",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "telefone": "45678",
+      "id": 3
+    },
+    {
+      "nome": "Du",
+      "sobrenome": "F",
+      "cpf": "311",
+      "email": "Du@santos",
+      "senha": "123",
+      "cep": "08744000",
+      "rua": "Avenida Conceição",
+      "bairro": "Vila Cintra",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "telefone": "23156762",
+      "id": 4
+    },
+    {
+      "nome": "Lucas",
+      "sobrenome": "Santos",
+      "cpf": "321548",
+      "email": "pedro@gmail.com",
+      "senha": "456",
+      "cep": "08744000",
+      "rua": "Avenida Conceição",
+      "bairro": "Vila Cintra",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "telefone": "178",
+      "id": 5
+    }
+  ]
+}
